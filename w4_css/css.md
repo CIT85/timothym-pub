@@ -50,3 +50,5 @@ must remember to set the margin numbers for the box model. but seeing the actual
 
 the browser will put in default numbers when I put in my rem numbers. 
 short hand is amazing. doing each margin would make me go crazy for sure.
+
+font fall back is a primary font face that is used when the primary font face is not loaded yet. or is missing glyphs necessary to render page content.
