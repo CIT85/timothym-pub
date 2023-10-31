@@ -38,3 +38,8 @@ multiple ways to choose a color. can use hexidecimal, can use rgb which is choos
 you can also hover over the color square to bring up the color shading. which is a lot of fun. you can explore a lot more colors. when you come up on a color you like the code will auto fill the rgb for you.
 
 you need this website to compare contrast colors. that way you are not just guessing what colors would work good. but it also gives you a rating based on the reviews on the internet. using this grading system will help out a lot and make it more professional.
+
+week 4: I have more questions then answers. The whole idea about using the percentage for the width is still a little confusing to me. 
+REM: font size of the root element.
+CH The advance measure (width) of the glyph "0" of the element's font.
+Dev tools are amazing. must use when I see something interesting on a website.
