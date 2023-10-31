@@ -45,3 +45,7 @@ CH The advance measure (width) of the glyph "0" of the element's font.
 Dev tools are amazing. must use when I see something interesting on a website.
 
 better to use percentage then to us VW. you have to be mindful of the coding you are doing to account for width and hight.
+
+must remember to set the margin numbers for the box model. but seeing the actual numbers in the inspection mode on the dev tools is amazing and lets me know how my code is running. 
+
+the browser will put in default numbers when I put in my rem numbers. 
