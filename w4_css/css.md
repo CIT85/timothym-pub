@@ -52,3 +52,14 @@ the browser will put in default numbers when I put in my rem numbers.
 short hand is amazing. doing each margin would make me go crazy for sure.
 
 font fall back is a primary font face that is used when the primary font face is not loaded yet. or is missing glyphs necessary to render page content.
+
+pseudo class
+A pseudo-class is used to define a special state of an element.
+
+For example, it can be used to:
+
+Style an element when a user mouses over it
+Style visited and unvisited links differently
+Style an element when it gets focus
+
+ specifity. it determines the pecking order. in this case a regular pseudo "a" is lower the a pseudo "a:visitor". so the visitor will always have priority over regular pseudo. but you have to keep these pseudo in a specific order because there will be ones with more priority then others.
