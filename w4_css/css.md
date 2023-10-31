@@ -43,3 +43,5 @@ week 4: I have more questions then answers. The whole idea about using the perce
 REM: font size of the root element.
 CH The advance measure (width) of the glyph "0" of the element's font.
 Dev tools are amazing. must use when I see something interesting on a website.
+
+better to use percentage then to us VW. you have to be mindful of the coding you are doing to account for width and hight.
